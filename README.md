@@ -256,3 +256,5 @@ docker-compose logs -f
 ## License
 
 MIT License. Designed and engineered for professional freelancing portfolios and enterprise sales analytics.
+#   a u t o m a t e d - s a l e s - r e p o r t - g e n e r a t o r  
+ 
